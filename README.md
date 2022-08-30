@@ -2,7 +2,7 @@
 
 # Heroku deployment steps #
 
-**step 1** - Add **(process.env.PORT)** in app.listen(port) method in server.js file 
+**step 1** - Add **(process.env.PORT)** in app.listen(port) method in server.js file.
 **step 2** - Create file with name of Procfile and add **web: node server.js**
 **step 3** - run **git add .**
 **step 4** - run **git commit -m "commit message"**
